@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 ### Hi there 👋 I'm iOS Developer
 
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 <!--
 **chan614/chan614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
